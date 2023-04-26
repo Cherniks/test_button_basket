@@ -1,2 +1,1 @@
-# test_button_basket
-test_button_basket
+Задание: запуск автотестов для разных языков интерфейса
